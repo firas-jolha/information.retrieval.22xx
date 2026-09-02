@@ -8,6 +8,9 @@ src
 uv.lock
 2026
 lab*/*sol*
+lab*/*old.ipynb
+CONTENT.md
+README.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
