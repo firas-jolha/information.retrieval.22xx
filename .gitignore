@@ -11,6 +11,7 @@ lab*/*sol*
 lab*/*old.ipynb
 CONTENT.md
 README.md
+datasets
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
